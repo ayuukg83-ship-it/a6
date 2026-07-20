@@ -1,1 +1,139 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Natural Living Corner | Mindful Ideas for Everyday Life</title><meta name="description" content="Explore practical natural-living guides for a calmer home, mindful routines and sustainable everyday choices."><link rel="canonical" href="https://naturallivingcorner.com/"><link rel="stylesheet" href="style.css"></head><body><header><div class="wrap head"><a class="logo" href="index.php"><b>NL</b>Natural<em>Living</em>Corner</a><button class="burger" aria-label="Menu">☰</button><nav><a href="index.php">Home</a><a href="guides.html">Living Guides</a><a href="about.html">About</a><a href="blog.html">Journal</a><a href="contact.html">Contact</a><a class="btn" href="guides.html">Explore Naturally</a></nav></div></header><main><section class="hero"><div class="wrap hero-grid"><div><span class="tag">A more considered everyday</span><h1>Live closer to what feels <span class="accent">natural</span></h1><p class="lead">Natural Living Corner shares practical ideas for a calmer home, mindful routines, thoughtful consumption and a stronger connection with the natural world.</p><div class="ctas"><a class="btn" href="guides.html">Explore Living Guides</a><a class="btn ghost" href="about.html">Our Approach</a></div><div class="stats"><div class="stat"><strong>40+</strong>practical guides</div><div class="stat"><strong>4</strong>living themes</div><div class="stat"><strong>12</strong>seasonal resets</div><div class="stat"><strong>0</strong>miracle claims</div></div></div><div class="hero-img"><img src="https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1000&q=85" alt="Sunlight through a peaceful green forest"><span class="chip one">Slow down gently</span><span class="chip two">Choose with care</span></div></div></section><div class="marquee">✦ Mindful home ✦ Natural routines ✦ Conscious choices ✦ Outdoor connection ✦ Everyday wellbeing</div><section class="section"><div class="wrap"><div class="sec"><span class="tag">Begin simply</span><h2>Four corners of natural living</h2><p>Start with small, realistic choices that support your home, time, surroundings and personal wellbeing.</p></div><div class="grid3"><article class="card"><span class="icon">🏡</span><h3>Mindful Home</h3><p>Reduce clutter, choose useful materials and create spaces that feel calmer to live in.</p><a class="link" href="guides.html">Explore home guides →</a></article><article class="card"><span class="icon">🌿</span><h3>Everyday Wellbeing</h3><p>Build gentle routines around rest, movement, nourishment and time outdoors.</p><a class="link" href="guides.html">Browse wellbeing ideas →</a></article><article class="card"><span class="icon">♻️</span><h3>Thoughtful Choices</h3><p>Use what you have, reduce avoidable waste and look beyond green marketing claims.</p><a class="link" href="blog.html">Read conscious-living notes →</a></article></div></div></section><section class="section alt"><div class="wrap split"><div class="media"><img src="https://images.unsplash.com/photo-1618220179428-22790b461013?w=900&q=85" alt="Calm natural home interior"></div><div><span class="tag">Natural, not perfect</span><h2>A slower approach to positive change</h2><p>Natural living is not a competition or a shopping aesthetic. It is a flexible practice of noticing what supports your life and reducing what no longer serves it.</p><div class="values"><div class="value"><b>01 · Begin where you are</b><br>Use your current time and resources.</div><div class="value"><b>02 · Change one habit</b><br>Small repeatable steps matter.</div><div class="value"><b>03 · Question the claim</b><br>Natural does not automatically mean safe.</div><div class="value"><b>04 · Keep it personal</b><br>Adapt ideas to your needs.</div></div></div></div></section><section class="section"><div class="wrap"><div class="sec"><span class="tag">Community notes</span><h2>Small shifts, more breathing room</h2></div><div class="grid3"><article class="card"><p class="quote">“The guides are calm and practical—there is no pressure to replace everything I own.”</p><b>— Priya R.</b></article><article class="card"><p class="quote">“I started with one evening routine and found it easier to stay consistent.”</p><b>— Hannah M.</b></article><article class="card"><p class="quote">“I appreciate the honest distinction between natural marketing and evidence.”</p><b>— Noah K.</b></article></div></div></section><section class="section"><div class="wrap cta"><h2>Make one thoughtful change</h2><p>Choose a guide that fits the season of life you are in today.</p><a class="btn" href="guides.html">Browse the Guides</a></div></section></main><footer><div class="wrap foot"><div><a class="logo" href="index.php"><b>NL</b>Natural<em>Living</em>Corner</a><p>Considered ideas for a calmer home, mindful routines and a closer connection with the natural world.</p></div><div><h4>Explore</h4><a href="guides.html">Living Guides</a><a href="about.html">About</a><a href="blog.html">Journal</a><a href="contact.html">Contact</a></div><div><h4>Legal</h4><a href="privacy.html">Privacy Policy</a><a href="terms.html">Terms of Use</a><a href="disclaimer.html">Wellness Disclaimer</a><a href="cookies.html">Cookie Policy</a></div><div><h4>Contact</h4><p>hello@naturallivingcorner.com</p><p>Monday–Friday · 9am–6pm</p></div></div><div class="copy">© 2026 Natural Living Corner. All rights reserved.</div></footer><div class="cookie"><div><strong>Your privacy, naturally</strong><p>Optional analytics help improve our guides. Read the <a href="cookies.html">Cookie Policy</a>.</p></div><button data-consent="all">Accept all</button><button data-consent="necessary">Necessary only</button></div><script src="script.js"></script></body></html>
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Natural Living Corner | Mindful Ideas for Everyday Life</title>
+    <meta name="description" content="Explore practical natural-living guides for a calmer home, mindful routines and sustainable everyday choices.">
+    <link rel="canonical" href="https://naturallivingcorner.com/">
+    <link rel="stylesheet" href="style.css">
+    <script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('consent', 'default', {
+    'analytics_storage': 'denied',
+    'ad_storage': 'denied',
+    'ad_user_data': 'denied',
+    'ad_personalization': 'denied',
+    'wait_for_update': 500
+  });
+</script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0LY0HY7L01"></script>
+<script>
+  gtag('js', new Date());
+  gtag('config', 'G-0LY0HY7L01', { 'anonymize_ip': true });
+</script>
+  </head>
+  <body>
+    <header>
+      <div class="wrap head"><a class="logo" href="index.php"><b>NL</b>Natural<em>Living</em>Corner</a><button class="burger" aria-label="Menu">☰</button>
+        <nav><a href="index.php">Home</a><a href="guides.html">Living Guides</a><a href="about.html">About</a><a href="blog.html">Journal</a><a href="contact.html">Contact</a><a class="btn" href="guides.html">Explore Naturally</a></nav>
+      </div>
+    </header>
+    <main>
+      <section class="hero">
+        <div class="wrap hero-grid">
+          <div><span class="tag">A more considered everyday</span>
+            <h1>Live closer to what feels <span class="accent">natural</span></h1>
+            <p class="lead">Natural Living Corner shares practical ideas for a calmer home, mindful routines, thoughtful consumption and a stronger connection with the natural world.</p>
+            <div class="ctas"><a class="btn" href="guides.html">Explore Living Guides</a><a class="btn ghost" href="about.html">Our Approach</a></div>
+            <div class="stats">
+              <div class="stat"><strong>40+</strong>practical guides</div>
+              <div class="stat"><strong>4</strong>living themes</div>
+              <div class="stat"><strong>12</strong>seasonal resets</div>
+              <div class="stat"><strong>0</strong>miracle claims</div>
+            </div>
+          </div>
+          <div class="hero-img"><img src="https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=1000&q=85" alt="Sunlight through a peaceful green forest"><span class="chip one">Slow down gently</span><span class="chip two">Choose with care</span></div>
+        </div>
+      </section>
+      <div class="marquee">✦ Mindful home ✦ Natural routines ✦ Conscious choices ✦ Outdoor connection ✦ Everyday wellbeing</div>
+      <section class="section">
+        <div class="wrap">
+          <div class="sec"><span class="tag">Begin simply</span>
+            <h2>Four corners of natural living</h2>
+            <p>Start with small, realistic choices that support your home, time, surroundings and personal wellbeing.</p>
+          </div>
+          <div class="grid3">
+            <article class="card"><span class="icon">🏡</span>
+              <h3>Mindful Home</h3>
+              <p>Reduce clutter, choose useful materials and create spaces that feel calmer to live in.</p><a class="link" href="guides.html">Explore home guides →</a>
+            </article>
+            <article class="card"><span class="icon">🌿</span>
+              <h3>Everyday Wellbeing</h3>
+              <p>Build gentle routines around rest, movement, nourishment and time outdoors.</p><a class="link" href="guides.html">Browse wellbeing ideas →</a>
+            </article>
+            <article class="card"><span class="icon">♻️</span>
+              <h3>Thoughtful Choices</h3>
+              <p>Use what you have, reduce avoidable waste and look beyond green marketing claims.</p><a class="link" href="blog.html">Read conscious-living notes →</a>
+            </article>
+          </div>
+        </div>
+      </section>
+      <section class="section alt">
+        <div class="wrap split">
+          <div class="media"><img src="https://images.unsplash.com/photo-1618220179428-22790b461013?w=900&q=85" alt="Calm natural home interior"></div>
+          <div><span class="tag">Natural, not perfect</span>
+            <h2>A slower approach to positive change</h2>
+            <p>Natural living is not a competition or a shopping aesthetic. It is a flexible practice of noticing what supports your life and reducing what no longer serves it.</p>
+            <div class="values">
+              <div class="value"><b>01 · Begin where you are</b><br>Use your current time and resources.</div>
+              <div class="value"><b>02 · Change one habit</b><br>Small repeatable steps matter.</div>
+              <div class="value"><b>03 · Question the claim</b><br>Natural does not automatically mean safe.</div>
+              <div class="value"><b>04 · Keep it personal</b><br>Adapt ideas to your needs.</div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="section">
+        <div class="wrap">
+          <div class="sec"><span class="tag">Community notes</span>
+            <h2>Small shifts, more breathing room</h2>
+          </div>
+          <div class="grid3">
+            <article class="card">
+              <p class="quote">“The guides are calm and practical—there is no pressure to replace everything I own.”</p><b>— Priya R.</b>
+            </article>
+            <article class="card">
+              <p class="quote">“I started with one evening routine and found it easier to stay consistent.”</p><b>— Hannah M.</b>
+            </article>
+            <article class="card">
+              <p class="quote">“I appreciate the honest distinction between natural marketing and evidence.”</p><b>— Noah K.</b>
+            </article>
+          </div>
+        </div>
+      </section>
+      <section class="section">
+        <div class="wrap cta">
+          <h2>Make one thoughtful change</h2>
+          <p>Choose a guide that fits the season of life you are in today.</p><a class="btn" href="guides.html">Browse the Guides</a>
+        </div>
+      </section>
+    </main>
+    <footer>
+      <div class="wrap foot">
+        <div><a class="logo" href="index.php"><b>NL</b>Natural<em>Living</em>Corner</a>
+          <p>Considered ideas for a calmer home, mindful routines and a closer connection with the natural world.</p>
+        </div>
+        <div>
+          <h4>Explore</h4><a href="guides.html">Living Guides</a><a href="about.html">About</a><a href="blog.html">Journal</a><a href="contact.html">Contact</a>
+        </div>
+        <div>
+          <h4>Legal</h4><a href="privacy.html">Privacy Policy</a><a href="terms.html">Terms of Use</a><a href="disclaimer.html">Wellness Disclaimer</a><a href="cookies.html">Cookie Policy</a>
+        </div>
+        <div>
+          <h4>Contact</h4>
+          <p>hello@naturallivingcorner.com</p>
+          <p>Monday–Friday · 9am–6pm</p>
+        </div>
+      </div>
+      <div class="copy">© 2026 Natural Living Corner. All rights reserved.</div>
+    </footer>
+    <div class="cookie">
+      <div><strong>Your privacy, naturally</strong>
+        <p>Optional analytics help improve our guides. Read the <a href="cookies.html">Cookie Policy</a>.</p>
+      </div><button data-consent="all">Accept all</button><button data-consent="necessary">Necessary only</button>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
